@@ -1,0 +1,40 @@
+#BOIDATA{
+    display: flex;      
+}
+.poltek{
+    font-family:  sans-serif;
+    color: black;
+    background-color: yellow;
+   
+}
+
+
+.Logo{
+width: auto;
+height: 100px;
+
+}
+  .logoo{
+    display: flex;
+  }
+
+.logoo>.logo1{
+    width: 200px;
+    height: 100px;
+}
+
+.logoo>.logo2{
+    width: 200px;
+    height: 250px;
+}
+
+.logoo>.logo3{
+    width: 450px;
+    height: 250px;
+}
+
+.logoo>.logo4{
+    width: 350px;
+    height: 150px;
+}
+
